@@ -7,7 +7,8 @@ h1.main {
     text-align: center;
     color: white;
     font-family: 'Fredoka One';
-    letter-spacing: 1px;
+    font-weight: 100;
+    letter-spacing: 0px;
 }
 
 footer {
@@ -21,11 +22,11 @@ footer {
     text-align: center;
     line-height: 30px;
     font-family: Arial, sans-serif;
-    transition: all .5s;
+    transition: all .75s;
 }
 
 .hidden {
-    margin-left: 5000px;
+    margin-left: 100%;
 }
 
 a {
